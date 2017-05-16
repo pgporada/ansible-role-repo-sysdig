@@ -11,4 +11,10 @@ galaxy_info:
     - name: EL
       versions:
         - 7
+  galaxy_tags:
+    - containers
+    - docker
+    - rkt
+    - sysdig
+    - draios
 ...
